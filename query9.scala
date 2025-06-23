@@ -4,7 +4,7 @@ import org.apache.spark.sql.{SparkSession, DataFrame}
 
 import org.apache.spark.sql.functions._
 
-object query12 {
+object query9 {
 
   def main(args: Array[String]): Unit = {
 
