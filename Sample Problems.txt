@@ -1,0 +1,12 @@
+Sample Reports
+
+Top ten bank accounts in terms of balance
+Analysis based on marital status and housing to provide loans
+Analysis grouping on age and education
+Based on no of account holders from the company –count of particular company
+based on account opening  date
+based on income – income tax savings=(income-2lac)*tax%
+based on age-  retirement policies
+based on experience – policies /offers=experience (based on their likings)
+Based on region  to establish more banking portals-count of all locations 
+Based on reward points – offers
