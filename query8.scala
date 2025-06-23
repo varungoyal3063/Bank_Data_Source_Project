@@ -1,6 +1,6 @@
 import org.apache.spark.sql.{SparkSession, functions => F}
 
-object query9 {
+object query8 {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
       .appName("Experience Based Offers")
